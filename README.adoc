@@ -1,0 +1,11 @@
+= spring-boot-kotlin-demo-mvn
+
+Re-creation of: 
+    https://github.com/mkheck/spring-boot-kotlin-demo
+
+Which is a fork of:
+    https://github.com/sdeleuze/spring-boot-kotlin-demo
+
+Using Maven instead of Gradle.
+
+NOTE: This is a scratch project, a work in progress. Star for updates and fork as you like, just know it will change. Hopefully frequently. :)
